@@ -1,0 +1,6 @@
+".\Objects\emotions.obj",
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\motor_control.obj" 
+TO ".\Objects\5.13 ≤‚ ‘" 
+PRINT(".\Listings\5.13 ≤‚ ‘.m51") RAMSIZE(256) 
